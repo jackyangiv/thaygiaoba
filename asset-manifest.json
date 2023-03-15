@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.56a6464f.css",
+    "main.js": "./static/js/main.abcf7625.js",
+    "static/js/787.1085928b.chunk.js": "./static/js/787.1085928b.chunk.js",
+    "static/media/thay-giao-ba-hoa-than-thanh-waifu-livestream-4.jpg": "./static/media/thay-giao-ba-hoa-than-thanh-waifu-livestream-4.8b1e4a87debc16a82e55.jpg",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.56a6464f.css.map": "./static/css/main.56a6464f.css.map",
+    "main.abcf7625.js.map": "./static/js/main.abcf7625.js.map",
+    "787.1085928b.chunk.js.map": "./static/js/787.1085928b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56a6464f.css",
+    "static/js/main.abcf7625.js"
+  ]
+}
